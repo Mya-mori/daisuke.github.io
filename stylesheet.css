@@ -5,6 +5,10 @@ body {
 li {
     list-style: none;
 }
+span{
+    font-size: 60px;
+    color: azure;
+}
 
 .header {
     background-color: #f7f2b4;
