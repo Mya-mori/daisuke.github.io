@@ -6,7 +6,7 @@ li {
     list-style: none;
 }
 span{
-    font-size: 60px;
+    font-size: 40px;
     color: azure;
 }
 
@@ -14,7 +14,7 @@ span{
     background-color: #f7f2b4;
     height: 90px;
     /*padding: 10px;*/
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .contexts {
@@ -30,6 +30,6 @@ span{
 
 .article {
     background-color: #f7f2b4;
-    font-size: 50px;
+    font-size: 40px;
     border-bottom: 1px solid #333;
 }
