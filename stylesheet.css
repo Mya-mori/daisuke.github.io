@@ -16,7 +16,6 @@ span{
     /*padding: 10px;*/
     font-size: 60px;
     border-bottom: 1px solid #333;
-    margin: 20px;
 }
 
 .contexts {
@@ -26,12 +25,11 @@ span{
 }
 
 .footer {
-    background-color: #ceccf3;
+    background-color: #ffffff;
     height: 270px;
 }
 
 .article {
     font-size: 20px;
     border-bottom: 1px solid #333;
-    margin: 20px;
 }
