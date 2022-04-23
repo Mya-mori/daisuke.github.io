@@ -27,3 +27,9 @@ span{
     background-color: #ceccf3;
     height: 270px;
 }
+
+.article {
+    background-color: #f7f2b4;
+    font-size: 50px;
+    border-bottom: 1px solid #333;
+}
