@@ -15,6 +15,8 @@ span{
     height: 90px;
     /*padding: 10px;*/
     font-size: 60px;
+    border-bottom: 1px solid #333;
+    margin: 20px;
 }
 
 .contexts {
@@ -29,6 +31,7 @@ span{
 }
 
 .article {
-    font-size: 40px;
+    font-size: 20px;
     border-bottom: 1px solid #333;
+    margin: 20px;
 }
