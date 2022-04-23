@@ -1,8 +1,6 @@
 body {
     font-family: "Avenir Next";
 }
-
-  /* list-styleプロパティを用いて、<li>要素の黒点を取り除いてください */
 li {
     list-style: none;
 }
@@ -10,6 +8,7 @@ li {
 .header {
     background-color: #f7f2b4;
     height: 90px;
+    padding: 20px;
 }
 
 .main {
